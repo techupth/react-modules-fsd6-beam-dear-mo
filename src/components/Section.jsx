@@ -186,6 +186,7 @@ export function FAQ() {
     //   </ul>
     // </section>
     <section id="faq">
+      <h1>FAQ (คำถามที่พบบ่อย)</h1>
       <Accordion defaultIndex={[0]} allowMultiple>
         <AccordionItem>
           <h2>
